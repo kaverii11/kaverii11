@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaverii11
 - 🌱 I’m currently learning HTML,CSS,JS, JSON, REACT JS
 - 💞️ I’m looking to collaborate on interesting Web dev projects
-- 📫 How to reach me- Kaveri05sharma@gmail.com and @Kaverii11 for X and instagram and glitch!
+- 📫 How to reach me- Kaveri05sharma@gmail.com 
 - 😄 Pronouns: She/her
 
 
