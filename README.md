@@ -47,15 +47,17 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
----
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaverii11&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaverii11&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaverii11&show_icons=true&theme=radical" alt="Kaveri's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaverii11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+### 🔥 coding streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaverii11&theme=radical" alt="Kaveri's Streak" />
+</p>
 
 ### 🔗 Connect with me
 <p align="left">
