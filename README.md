@@ -4,7 +4,6 @@
 - 📫 Reach me at: **Kaveri05sharma@gmail.com**
 
 ### 🛠️ Tech Stack Overview
-### 🛠️ Tech Stack Overview
 
 #### 💪 Strong / Daily Use
 <p>
@@ -42,16 +41,13 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
 
-### 📊 GitHub Stats
-📌 Consistent contributor with a focus on academic + project-based development
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaverii11&layout=compact&theme=radical" />
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaverii11&show_icons=true&theme=radical" alt="Kaveri's Stats" />
-</p>
+### 📊 GitHub Stats 
+<div align="centre">
+  <img src="https://metrics.lecoq.io/kaverii11?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata" alt="Kaveri's Metrics" />
+</div>
 
 ### 🔥 Coding Streak
-<p align="left">
+<p align="centre">
   <img src="https://streak-stats.demolab.com/?user=kaverii11" alt="Kaveri's Streak" />
 </p>
 
@@ -61,6 +57,6 @@
 </p>
 
 ### 🔗 Connect with me
-<p align="left">
+<p align="centre">
 <a href="https://www.linkedin.com/in/kaveri-sharma-48220926a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin" /></a>
 </p>
