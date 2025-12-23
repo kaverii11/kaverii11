@@ -1,4 +1,4 @@
-# Hi there, I'm Kaveri! 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kaveri!&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35)
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 - 📫 How to reach me: **Kaveri05sharma@gmail.com**
@@ -50,13 +50,17 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaverii11&show_icons=true&theme=radical" alt="Kaveri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaverii11&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaverii11&show_icons=true&theme=radical" alt="Kaveri's Stats" />
 </p>
 
-### 🔥 coding streak
+### 🔥 Coding Streak
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaverii11&theme=radical" alt="Kaveri's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kaverii11" alt="Kaveri's Streak" />
+</p>
+
+### 👁️ Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kaverii11&color=blueviolet" alt="Profile Views" />
 </p>
 
 ### 🔗 Connect with me
