@@ -1,8 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kaveri!&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35)
-
-- 👯 I’m looking to collaborate on **Innovative projects**
-- 📫 How to reach me: **Kaveri05sharma@gmail.com**
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kaveri!&fontSize=65&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20|%20Web%20Developer%20|%20ML%20×%20Tech&descAlignY=55&descSize=22)
+- 👩‍💻 CS Engineering student passionate about **building scalable web products**
+- 🤝 Open to collaborations, hackathons, and internships
+- 📫 Reach me at: **Kaveri05sharma@gmail.com**
 
 ### 🛠️ Languages and Tools
 
@@ -49,6 +48,9 @@
 </p>
 
 ### 📊 GitHub Stats
+📌 Consistent contributor with a focus on academic + project-based development
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaverii11&layout=compact&theme=radical" />
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kaverii11&show_icons=true&theme=radical" alt="Kaveri's Stats" />
 </p>
