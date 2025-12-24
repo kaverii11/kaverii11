@@ -49,11 +49,6 @@
   <img src="https://streak-stats.demolab.com/?user=kaverii11" alt="Kaveri's Streak" />
 </p>
 
-### Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kaverii11&color=blueviolet" alt="Profile Views" />
-</p>
-
 ### Connect with me
 <p align="centre">
 <a href="https://www.linkedin.com/in/kaveri-sharma-48220926a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin" /></a>
