@@ -2,6 +2,7 @@
 - CS Engineering student passionate about **building scalable web products**
 - Open to collaborations, hackathons, and internships
 - Reach me at: **Kaveri05sharma@gmail.com**
+- Portfolio website: **https://portfolio-kaverii11.vercel.app/**
 
 ### 🛠️ Tech Stack Overview
 
