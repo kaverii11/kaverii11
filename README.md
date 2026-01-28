@@ -40,6 +40,12 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
 
+### 📊 My GitHub Stats
+![Kaveri's Stats](https://github-readme-stats.vercel.app/api?username=kaverii11&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaverii11&layout=compact&theme=radical&hide_border=true)
+
+
 ### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kaveri-sharma-48220926a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin" /></a>
