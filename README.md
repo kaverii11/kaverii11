@@ -59,4 +59,11 @@ Walk around a little pixel town and step into each building to read a section of
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaverii11&layout=compact&hide_border=true&theme=transparent&title_color=E07A5F&text_color=777" alt="Top languages" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaverii11/kaverii11/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/kaverii11/kaverii11/output/snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer)
