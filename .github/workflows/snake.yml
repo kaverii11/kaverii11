@@ -1,4 +1,4 @@
-name: Contribution snake
+name: Contribution snake + stats cards
 
 on:
   schedule:
@@ -20,6 +20,21 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+      # Stats cards built here instead of the public github-readme-stats server (often down)
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&title_color=E07A5F&icon_color=81B29A&text_color=777777
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=E07A5F&text_color=777777
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

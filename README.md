@@ -4,7 +4,7 @@
   <a href="https://kaverii11.github.io/resume-gamified/"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Play%20my%20resume-E07A5F?style=for-the-badge" alt="Play my resume" /></a>
   <a href="https://portfolio-kaverii11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3D405B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kaveri-sharma-aiml/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kaveri05sharma@gmail.com"><img src="https://img.shields.io/badge/Email-81B29A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:kaverisharma05@gmail.com"><img src="https://img.shields.io/badge/Email-81B29A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 👋 About me
@@ -12,7 +12,7 @@
 - 🎓 Final-year **Computer Science** student at **PES University**, Bengaluru (graduating 2027)
 - 🛠️ I build across **full-stack, ML and GenAI**: RAG support platforms, GPU-accelerated geospatial routing, health digital twins
 - 🚆 Previously: **Data & Analytics Engineering Intern at NCRTC**, building a real-time transport analytics dashboard for PM e-Bus Sewa
-- 🤝 Open to collaborations, hackathons and full-time roles
+- 🔍 Looking for a **Jan–Jun 2027 internship** in AI / software engineering (Bengaluru or remote)
 
 ## 🎮 My resume is a game
 
@@ -43,8 +43,8 @@ Walk around a little pixel town and step into each building to read a section of
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaverii11&show_icons=true&hide_border=true&theme=transparent&title_color=E07A5F&icon_color=81B29A&text_color=777" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaverii11&layout=compact&hide_border=true&theme=transparent&title_color=E07A5F&text_color=777" alt="Top languages" />
+  <img height="165" src="https://raw.githubusercontent.com/kaverii11/kaverii11/output/stats.svg" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/kaverii11/kaverii11/output/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
