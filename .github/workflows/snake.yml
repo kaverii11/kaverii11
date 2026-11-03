@@ -19,14 +19,14 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&title_color=E07A5F&icon_color=81B29A&text_color=777777
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide=stars,issues&disable_animations=true&hide_border=true&bg_color=00000000&title_color=E07A5F&icon_color=81B29A&text_color=777777
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=E07A5F&text_color=777777
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&exclude_repo=PMeBUSSEWA&hide=html,css,tex,scss&size_weight=0.5&count_weight=0.5&disable_animations=true&hide_border=true&bg_color=00000000&title_color=E07A5F&text_color=777777
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
