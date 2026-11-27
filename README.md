@@ -12,7 +12,6 @@
 - 🎓 Final-year **Computer Science** student at **PES University**, Bengaluru (graduating 2027)
 - 🛠️ I build across **full-stack, ML and GenAI**: RAG support platforms, GPU-accelerated geospatial routing, health digital twins
 - 🚆 Previously: **Data & Analytics Engineering Intern at NCRTC**, building a real-time transport analytics dashboard for PM e-Bus Sewa
-- 🔍 Looking for a **Jan–Jun 2027 internship** in AI / software engineering (Bengaluru or remote)
 
 ## 🎮 My resume is a game
 
